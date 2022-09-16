@@ -1,8 +1,6 @@
 ### My name is ` Abidin `.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dintzonly)
-[![Instagram Badge](https://img.shields.io/badge/-dintzonly-orange?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/dintzonly/)](https://instagram.com/dintzonly)
 [![BMC Badge](https://img.shields.io/badge/-BuyMeCoffee-FFDD00?style=plastic-square&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/dintzonly)](https://www.buymeacoffee.com/dintzonly)
-[![Youtube Badge](https://img.shields.io/badge/-SBS_PROJECT-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/SBSPROJECT170903)](https://www.youtube.com/c/SBSPROJECT170903)
 
 ## My activities
 
